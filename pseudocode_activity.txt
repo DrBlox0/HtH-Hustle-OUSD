@@ -1,4 +1,4 @@
-Clock Specs: 
+Clock Specs:
 time, rings, specific time to go ring, snooze 
 
 -- psuedocode --
@@ -22,7 +22,17 @@ when the alarm rings:
             c. Alarm explodes
 
     b. Stop the alarm and get up
-        a. Go 
+        a. Go to bathroom 
+            a. Go get ready for the day 
+            b. Go back to bed
+        b. Start scrolling on phone
+            a. Scroll until sleep
+            b. Phone falls on face
+                a. Explode
+        c. Sit in bed for x minutes
+            a. Think about something
+            b. Go back to bed
+            c. Explode
 End
 
 
