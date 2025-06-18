@@ -1,0 +1,35 @@
+Clock Specs: 
+time, rings, specific time to go ring, snooze 
+
+-- psuedocode --
+
+start
+1. Grab the alarm clock
+2. Set the alarm time (AM/PM)
+    a. Make sure you have correct AM/PM
+    b. Set a desired ringtone (song, beat) 
+
+when the alarm rings: 
+    a. snooze
+        a. Give 5 minutes
+        b. Give 10 minutes
+        c. Give 30 minutes
+        d. Give 120 minutes
+
+        once extra time is up: 
+            a. Give x more minutes
+            b. Stop the alarm 
+            c. Alarm explodes
+
+    b. Stop the alarm and get up
+        a. Go 
+End
+
+
+
+
+
+
+
+
+
