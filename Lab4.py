@@ -1,12 +1,17 @@
 #Checking = "yes"
 
 #while Checking == "yes": 
- #   print("what is your age: ")
- #   user_input = input()
- #   if int(user_input) >= 18: 
-  #      print("yes you can vote")
+  #  print("what is your age")
+  #  user_input = input()
+
+  #  if int(user_input) >= 18: 
+   #     print("yes you can vote")
+  #  elif int(user_input) < 18:
+  #      print("You are not old enough")
+
+
 #else:
-#    print("you can't vote")
+ #       print("you can't vote")
 #print("would you like to check another age?")
 #user_input2 = input()
 #checking = user_input2
@@ -36,3 +41,12 @@ for i in inventory:
         print("Metal")
     elif i == "tnt":
         print("boom")
+
+
+
+
+
+
+
+
+
